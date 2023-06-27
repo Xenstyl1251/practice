@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>WELCOME!</h1>
+        <h1>WELCOME! 1</h1>
         <h2>WELCOME!</h2>
         <span>WELCOME!</span>
         <label>WELCOME!</label>
