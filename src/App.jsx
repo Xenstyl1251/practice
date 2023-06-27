@@ -11,7 +11,7 @@ function App() {
       <div>
         <h1>WELCOME! 1</h1>
         <h6>WELCOME!</h6>
-        <span>WELCOME!</span>
+        <span>WELCOM!</span>
         <label>WELCOME!</label>
         <a href={'/product'+"1"}>Go to product</a>
         <button onClick={()=> console.log("cleck")}>click me</button>
