@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <h1>WELCOME! 1</h1>
-        <h2>WELCOME!</h2>
+        <h6>WELCOME!</h6>
         <span>WELCOME!</span>
         <label>WELCOME!</label>
         <a href={'/product'+"1"}>Go to product</a>
